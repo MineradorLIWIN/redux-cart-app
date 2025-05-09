@@ -25,7 +25,7 @@ function ProductsSection({ products }) {
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
-      <ToastContainer position="top-right" pauseOnHover={false} closeOnClick theme="dark" />
+      <ToastContainer position="top-center" pauseOnHover={false} closeOnClick theme="dark" />
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {products.map((product) => {
           const existingItem = cartItems.find((i) => i.id === product.id);

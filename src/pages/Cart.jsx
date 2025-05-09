@@ -46,7 +46,7 @@ function Cart() {
 
   return (
     <main className="max-w-7xl mx-auto px-4 py-8 min-h-96">
-      <ToastContainer position="top-right" pauseOnHover={false} closeOnClick theme="dark" />
+      <ToastContainer position="top-center" pauseOnHover={false} closeOnClick theme="dark" />
       <h2 className="text-2xl mb-6  font-bold text-gray-100">Shopping Cart</h2>
       <div className="grid gap-6">
         {cartItems.map(item => (

@@ -7,7 +7,7 @@ Browse products, search, add to cart, and enjoy a smooth shopping experience!
 
 ## 🚀 Live Demo
 
-[https://redux-cart-app-demo.vercel.app/](https://redux-cart-app-demo.vercel.app/)
+[https://abhishek-soni6904.github.io/redux-cart-app/](https://abhishek-soni6904.github.io/redux-cart-app/)
 
 ---
 
@@ -65,11 +65,11 @@ Browse products, search, add to cart, and enjoy a smooth shopping experience!
 
 | Home                          | No Results                                | Failed to Fetch Products                            |
 | ----------------------------- | ----------------------------------------- | --------------------------------------------------- |
-| ![Home](screenshots/home.png) | ![No Results](screenshots/no-results.png) | ![Failed to Fetch](screenshots/failed-to-fetch.png) |
+| ![Home](src/assets/screenshots/home.webp) | ![No Results](src/assets/screenshots/no-results.webp) | ![Failed to Fetch](src/assets/screenshots/failed-to-fetch.webp) |
 
 | Cart                          | Empty Cart                                |
 | ----------------------------- | ----------------------------------------- |
-| ![Cart](screenshots/cart.png) | ![Empty Cart](screenshots/empty-cart.png) |
+| ![Cart](src/assets/screenshots/cart.webp) | ![Empty Cart](src/assets/screenshots/empty-cart.webp) |
 
 ---
 
