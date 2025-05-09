@@ -79,10 +79,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♂️ Author
-
-- **Abhishek Soni**  
-  [Portfolio](https://abhishek-soni6904.github.io/Abhishek-Portfolio/)  
-  [GitHub](https://github.com/Abhishek-soni6904)  
-  [LinkedIn](https://www.linkedin.com/in/abhishek-soni-662028331/)  
-  [Email](mailto:abhisheks6904@gmail.com)
+## Contact📩  
+For any queries or support, feel free to reach out:
+- **👤 Name**: Abhishek Soni
+- **📧 Email**: abhisheks6904@gmail.com
+- **🔗 GitHub**: [Abhishek-soni6904](https://github.com/Abhishek-soni6904)
+- **📸 Instagram**: [\_abhishek.\_\.soni\_](https://www.instagram.com/_abhishek._.soni_/)
+- **💼 LinkedIn**: [Abhishek Soni](https://www.linkedin.com/in/abhishek-soni-662028331/)
